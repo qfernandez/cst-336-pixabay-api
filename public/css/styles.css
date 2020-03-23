@@ -1,0 +1,16 @@
+body {
+text-align: center;
+background-color: #CBE2F6;
+}
+img {
+border-radius: 20px;
+}
+#image {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+#image img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
